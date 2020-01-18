@@ -1,0 +1,207 @@
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou false (0). [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou false (1). [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou true (2). [OK]
+
+Log fila [elementos: 1] - Inicio: [1;21]
+                        -    Fim: [1;21]
+
+Insercao retornou false (3). [OK]
+
+Log fila [elementos: 1] - Inicio: [1;21]
+                        -    Fim: [1;21]
+
+Insercao retornou true (4). [OK]
+
+Log fila [elementos: 2] - Inicio: [1;21] [3;24]
+                        -    Fim: [3;24] [1;21]
+
+Insercao retornou true (5). [OK]
+
+Log fila [elementos: 3] - Inicio: [1;21] [3;24] [4;30]
+                        -    Fim: [4;30] [3;24] [1;21]
+
+Insercao retornou true (6). [OK]
+
+Log fila [elementos: 4] - Inicio: [2;70] [1;21] [3;24] [4;30]
+                        -    Fim: [4;30] [3;24] [1;21] [2;70]
+
+Insercao retornou true (7). [OK]
+
+Log fila [elementos: 5] - Inicio: [2;70] [5;79] [1;21] [3;24] [4;30]
+                        -    Fim: [4;30] [3;24] [1;21] [5;79] [2;70]
+
+Insercao retornou true (8). [OK]
+
+Log fila [elementos: 6] - Inicio: [2;70] [5;79] [1;21] [3;24] [4;30] [6;19]
+                        -    Fim: [6;19] [4;30] [3;24] [1;21] [5;79] [2;70]
+
+Atendimento retornou true (9), id=2. [OK]
+
+Log fila [elementos: 5] - Inicio: [5;79] [1;21] [3;24] [4;30] [6;19]
+                        -    Fim: [6;19] [4;30] [3;24] [1;21] [5;79]
+
+Atendimento retornou true (10), id=5. [OK]
+
+Log fila [elementos: 4] - Inicio: [1;21] [3;24] [4;30] [6;19]
+                        -    Fim: [6;19] [4;30] [3;24] [1;21]
+
+Atendimento retornou true (11), id=1. [OK]
+
+Log fila [elementos: 3] - Inicio: [3;24] [4;30] [6;19]
+                        -    Fim: [6;19] [4;30] [3;24]
+
+Atendimento retornou true (12), id=3. [OK]
+
+Log fila [elementos: 2] - Inicio: [4;30] [6;19]
+                        -    Fim: [6;19] [4;30]
+
+Atendimento retornou true (13), id=4. [OK]
+
+Log fila [elementos: 1] - Inicio: [6;19]
+                        -    Fim: [6;19]
+
+Atendimento retornou true (14), id=6. [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Atendimento retornou false (15). [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou true (16). [OK]
+
+Log fila [elementos: 1] - Inicio: [7;75]
+                        -    Fim: [7;75]
+
+Insercao retornou true (17). [OK]
+
+Log fila [elementos: 2] - Inicio: [7;75] [8;98]
+                        -    Fim: [8;98] [7;75]
+
+Insercao retornou true (18). [OK]
+
+Log fila [elementos: 3] - Inicio: [7;75] [8;98] [9;86]
+                        -    Fim: [9;86] [8;98] [7;75]
+
+Atendimento retornou true (19), id=7. [OK]
+
+Log fila [elementos: 2] - Inicio: [8;98] [9;86]
+                        -    Fim: [9;86] [8;98]
+
+Atendimento retornou true (20), id=8. [OK]
+
+Log fila [elementos: 1] - Inicio: [9;86]
+                        -    Fim: [9;86]
+
+Atendimento retornou true (21), id=9. [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou true (22). [OK]
+
+Log fila [elementos: 1] - Inicio: [10;83]
+                        -    Fim: [10;83]
+
+Insercao retornou true (23). [OK]
+
+Log fila [elementos: 2] - Inicio: [10;83] [11;94]
+                        -    Fim: [11;94] [10;83]
+
+Insercao retornou true (24). [OK]
+
+Log fila [elementos: 3] - Inicio: [10;83] [11;94] [12;17]
+                        -    Fim: [12;17] [11;94] [10;83]
+
+Desistindo da fila retornou false (25). [OK]
+
+Log fila [elementos: 3] - Inicio: [10;83] [11;94] [12;17]
+                        -    Fim: [12;17] [11;94] [10;83]
+
+Desistindo da fila retornou true (26). [OK]
+
+Log fila [elementos: 2] - Inicio: [11;94] [12;17]
+                        -    Fim: [12;17] [11;94]
+
+Desistindo da fila retornou true (27). [OK]
+
+Log fila [elementos: 1] - Inicio: [11;94]
+                        -    Fim: [11;94]
+
+Desistindo da fila retornou true (28). [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou true (29). [OK]
+
+Log fila [elementos: 1] - Inicio: [13;22]
+                        -    Fim: [13;22]
+
+Desistindo da fila retornou true (30). [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
+
+Insercao retornou true (31). [OK]
+
+Log fila [elementos: 1] - Inicio: [14;83]
+                        -    Fim: [14;83]
+
+Insercao retornou true (32). [OK]
+
+Log fila [elementos: 2] - Inicio: [14;83] [15;71]
+                        -    Fim: [15;71] [14;83]
+
+Insercao retornou true (33). [OK]
+
+Log fila [elementos: 3] - Inicio: [14;83] [15;71] [16;67]
+                        -    Fim: [16;67] [15;71] [14;83]
+
+Desistindo da fila retornou true (34). [OK]
+
+Log fila [elementos: 2] - Inicio: [14;83] [15;71]
+                        -    Fim: [15;71] [14;83]
+
+Insercao retornou true (35). [OK]
+
+Log fila [elementos: 3] - Inicio: [14;83] [15;71] [17;23]
+                        -    Fim: [17;23] [15;71] [14;83]
+
+Insercao retornou true (36). [OK]
+
+Log fila [elementos: 4] - Inicio: [14;83] [15;71] [17;23] [18;27]
+                        -    Fim: [18;27] [17;23] [15;71] [14;83]
+
+Desistindo da fila retornou true (37). [OK]
+
+Log fila [elementos: 3] - Inicio: [14;83] [15;71] [18;27]
+                        -    Fim: [18;27] [15;71] [14;83]
+
+Desistindo da fila retornou true (38). [OK]
+
+Log fila [elementos: 2] - Inicio: [14;83] [18;27]
+                        -    Fim: [18;27] [14;83]
+
+Atendimento retornou true (39), id=14. [OK]
+
+Log fila [elementos: 1] - Inicio: [18;27]
+                        -    Fim: [18;27]
+
+Atendimento retornou true (40), id=18. [OK]
+
+Log fila [elementos: 0] - Inicio:
+                        -    Fim:
